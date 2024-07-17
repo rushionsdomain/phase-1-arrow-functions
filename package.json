@@ -21,5 +21,9 @@
   },
   "dependencies": {
     "babel-upgrade": "0.0.24"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": []
 }
